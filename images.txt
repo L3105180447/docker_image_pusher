@@ -1,1 +1,1 @@
-vvbbnn00/warp-clash-api:latest
+ddsderek/xiaoya-115cleaner:latest

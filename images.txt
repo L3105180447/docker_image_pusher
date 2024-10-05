@@ -1,1 +1,1 @@
-mzz2017/v2raya:latest
+v2ray/official:latest
